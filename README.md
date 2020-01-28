@@ -1,3 +1,3 @@
 # OpenSesameApp
 POOSD Project
-Open in Android Studio to run application
+- Open in Android Studio to run application
